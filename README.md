@@ -37,4 +37,4 @@ Focus Timer does not collect or share any personal data. It uses local notificat
 
 ## 📫 Contact
 For feedback, suggestions, or questions, feel free to reach out:
-- **Email:** yourname@example.com
+- **Email:** mananjain0220@gmail.com
